@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# JSON file
+dataFile.json
+
+# Virtual environments
+venv/
+env/
+env.bak/
+.venv/
+
+# IDE files
+.idea/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
