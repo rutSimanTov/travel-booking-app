@@ -1,0 +1,177 @@
+{
+    "travelList": [
+        {
+            "target": "New York",
+            "Date": "2023-11-01",
+            "price": 500.0
+        },
+        {
+            "target": "London",
+            "Date": "2023-11-15",
+            "price": 450.0
+        },
+        {
+            "target": "Tokyo",
+            "Date": "2023-12-01",
+            "price": 600.0
+        },
+        {
+            "target": "Paris",
+            "Date": "2023-12-10",
+            "price": 550.0
+        },
+        {
+            "target": "Sydney",
+            "Date": "2023-12-20",
+            "price": 700.0
+        },
+        {
+            "target": "Dubai",
+            "Date": "2023-12-25",
+            "price": 650.0
+        }
+    ],
+    "passengersList": [
+        {
+            "name": "John Doe",
+            "id": "001",
+            "debt": 0.0
+        },
+        {
+            "name": "Jane Smith",
+            "id": "002",
+            "debt": 0.0
+        },
+        {
+            "name": "Alice Johnson",
+            "id": "003",
+            "debt": 0.0
+        },
+        {
+            "name": "Bob Brown",
+            "id": "004",
+            "debt": 0.0
+        },
+        {
+            "name": "Charlie Davis",
+            "id": "005",
+            "debt": 0.0
+        },
+        {
+            "name": "Diana Evans",
+            "id": "006",
+            "debt": 0.0
+        },
+        {
+            "name": "Ethan Green",
+            "id": "007",
+            "debt": 0.0
+        },
+        {
+            "name": "Fiona Harris",
+            "id": "008",
+            "debt": 300.0
+        },
+        {
+            "name": "George King",
+            "id": "009",
+            "debt": 0.0
+        },
+        {
+            "name": "Hannah Lewis",
+            "id": "010",
+            "debt": 0.0
+        },
+        {
+            "name": "Ian Martinez",
+            "id": "011",
+            "debt": 0.0
+        },
+        {
+            "name": "Jessica Nelson",
+            "id": "012",
+            "debt": 0.0
+        },
+        {
+            "name": "Kevin O'Connor",
+            "id": "013",
+            "debt": 0.0
+        },
+        {
+            "name": "Laura Parker",
+            "id": "014",
+            "debt": 0.0
+        },
+        {
+            "name": "Michael Quinn",
+            "id": "015",
+            "debt": 0.0
+        },
+        {
+            "name": "Nora Reed",
+            "id": "016",
+            "debt": 0.0
+        },
+        {
+            "name": "Oscar Smith",
+            "id": "017",
+            "debt": 0.0
+        },
+        {
+            "name": "Paula Taylor",
+            "id": "018",
+            "debt": 0.0
+        },
+        {
+            "name": "Quinn Underwood",
+            "id": "019",
+            "debt": 0.0
+        },
+        {
+            "name": "Ryan Vance",
+            "id": "020",
+            "debt": 0.0
+        },
+        {
+            "name": "manager",
+            "id": "1",
+            "debt": 0.0
+        }
+    ],
+    "TravelsDict": {
+        "New York": [
+            "001"
+        ],
+        "London": [
+            "002",
+            "007",
+            "008",
+            "009",
+            "010",
+            "011",
+            "012",
+            "013"
+        ],
+        "Tokyo": [
+            "003"
+        ],
+        "Paris": [
+            "004",
+            "005",
+            "006"
+        ],
+        "Sydney": [
+            "007"
+        ],
+        "Dubai": [
+            "004",
+            "014",
+            "015",
+            "016",
+            "017",
+            "018",
+            "019",
+            "020"
+        ]
+    }
+}
