@@ -2,8 +2,6 @@
 __pycache__/
 *.py[cod]
 
-# JSON file
-dataFile.json
 
 # Virtual environments
 venv/
