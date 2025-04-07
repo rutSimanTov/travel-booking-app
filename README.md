@@ -43,7 +43,7 @@ python main.py
 
 ## 💡Contributing
 
-Feel free to contribute by submitting a pull request or raising issues. Your feedback helps improve the application! 😊
+Feel free to contribute by submitting a pull request or raising issues. Your feedback helps improve the application!
 
 
 
